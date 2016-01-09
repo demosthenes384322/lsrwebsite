@@ -1,1 +1,2 @@
-Light Sabres Robotics Website
+# lsrwebsite
+Website for "The Light Sabres" First Robotics Team
