@@ -28,6 +28,7 @@ body {
 #content {
 	float: left;
 	width: 60%;
+	margin-bottom: 50px;
 }
 #sidebar {
 	float: right;
